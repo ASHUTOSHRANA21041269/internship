@@ -1,0 +1,63 @@
+@import url('https://fonts.googleapis.com/css2?family=Baloo+Bhai+2&family=Pangolin&family=Varela+Round&display=swap');
+.min-h-screen{
+    min-height: 100vh;
+}
+
+.bg-red{
+    background-color: red;
+}
+.mx-auto{
+    margin-left: auto;
+    margin-right: auto;
+}
+.flex{
+    display: flex;
+}
+.items-center{
+    align-items: center;
+}
+.justify-center{
+    justify-content: center;
+}
+.justify-between{
+    justify-content: space-between;
+}
+.font-bold{
+    font-weight: bold;
+}
+.flex-col{
+    flex-direction: column;
+}
+.my-1{
+    margin-top: 13px;
+    margin-bottom: 13px;
+}
+.my-2{
+    margin-top: 26px;
+    margin-bottom: 26px;
+}
+.px-2{
+    padding-left: 13px;
+    padding-right: 13px;
+}
+.text-blue{
+    color:white;
+}
+.btn1{
+    padding: 4px 12 px;
+    color: black;
+    border: 2px solid white;
+    border-radius: 20px;
+    cursor: pointer;
+    background-color: rgba(178, 234, 234, 0.528);
+}
+.overflow-x-hidden{
+overflow-x: hidden;
+}
+.text-center{
+    text-align: center;
+}
+.highlighted{
+    font-weight: 900;
+    font-size: larger;
+}
